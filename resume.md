@@ -10,7 +10,7 @@ Jesse_weston@protonmail.com
 
 <h4> Apple, Annapolis — Genius </h4>
 <h6> May 2020 – Present </h6>
-As a Genius, I provide insightful advice and friendly, hands-on technical support to people in need. I quickly diagnose product issues on the spot, explaining situations with patience and compassion. I offer solutions to quickly get users up and running again. I have become accustomed to juggling more than one customer, while being respectful of their time. I fulfill Apple’s service commitment with style, speed, and skill. finding trust of customers and coworkers alike as I offer mentorship, knowledge, and even tips and training. I am constantly striving for improving the customer experience, seeking out feedback, and bettering myself every day.
+As a Genius, I provide insightful advice and friendly, hands-on technical support to people in need. I quickly diagnose product issues on the spot, explaining situations with patience and compassion. I offer solutions to quickly get users up and running again. I have become accustomed to juggling more than one customer, while being respectful of their time. I fulfill Apple’s service commitment with style, speed, and skill. Finding trust of customers and coworkers alike as I offer mentorship, knowledge, and even tips and training. I am constantly striving to improve the customer experience, seek out feedback, and better myself every day.
 
 <h4> Apple - At Home Advisor </h4>
 <h6> March 2020 - Present </h6>
