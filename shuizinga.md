@@ -1,10 +1,10 @@
-<h1> Jesse Weston </h1>
-<h5> B.S. in Information Systems from UMBC - Genius at Apple  </h5>
+<h1> Sarah Huizinga </h1>
+<h5> I am a former US Navy dependent and an Expert at Apple, who also enjoys sewing and gardening. throughout my life I have been exposed to new environments and that translates to my ability to learn and adapt to new systems and procedures. My diverse background in leading teams, inventory, and different retail environments has prepared me for the next step in my career. </h5>
 
-Crownsville, MD  
-(410)-903-3977  
-github.com/Jesster58<br>
-Jesse_weston@protonmail.com  
+Lansing, MI  
+301.377.2767
+shuizinga.com<br>
+s.huizinga88@gmail.com
 
 <h3> Experience </h3>
 
