@@ -8,21 +8,27 @@ s.huizinga88@gmail.com
 
 <h3> Experience </h3>
 
-<h4> Apple, Annapolis — Genius </h4>
-<h6> May 2020 – Present </h6>
-As a Genius, I provide insightful advice and friendly, hands-on technical support to people in need. I quickly diagnose product issues on the spot, explaining situations with patience and compassion. I offer solutions to quickly get users up and running again. I have become accustomed to juggling more than one customer, while being respectful of their time. I fulfill Apple’s service commitment with style, speed, and skill. Finding trust of customers and coworkers alike as I offer mentorship, knowledge, and even tips and training. I am constantly striving to improve the customer experience, seek out feedback, and better myself every day.
+<h4> Apple, Lansing — Expert </h4>
+<h6> December 2020 – Present </h6>
+As an Expert, I become an early adapter to new products, and processes, and to lead through example and mentoring. I value the time that I spend helping others to make big decisions. This role has helped me to develop proven experience in sales and technology solutions, as well as in developing customer loyalty. I have the ability to consistently deliver great customer experiences — no matter what the situation.
 
-<h4> Apple - At Home Advisor </h4>
+<h4> Apple, Annapolis - Schedule Planner </h4>
 <h6> March 2020 - Present </h6>
-During the pandemic I moved to working from home as our stores were shut down. I trained in working with customers over the phone doing largely the same type of troubleshooting and setting up the same types of repairs that I would perform in store. Working from home has come with its own set of challenges that helped me to grow. I have learned to improve my focus, and work ethic. I also improved skills for troubleshooting, and aligning with customers without having the device in front of you.   
+In this role, I was responsible for planning the entire store schedule based on many constantly changing factors. This taught me the value of collaboration and working as a team, as I was heavily dependent on my peers for the information I needed to get my job done. I reported directly to the store leader, and was able to guide my store through the COVID-19 pandemic which was one of the biggest challenges I have taken on.  
 
-<h4> Apple, Annapolis — Genius Admin </h4>
+<h4> Apple, Annapolis — Operations Expert </h4>
 <h6> July 2015 – May 2020 </h6>
-As a Genius Admin, I managed both repairs and customer relations, making sure that our service experience met customer expectations. I worked with a team of Geniuses and made sure they had the support, knowledge, and resources they needed to succeed. I was required to maintain turnaround time, complete repair tasks, and keep the Genius Room organized as new repairs and products arrived. I was in close and constant contact with management and leadership teams, sharing data about the statuses of repairs and processes.
+In charge of the entire store’s inventory including products, parts and supplies. Partners with Leadership team to secure new product and maintaining availability. Provides feedback to team to correct behaviors or processes. Adjusts quickly to the needs of the business with inflexible deadlines. Resource for inventory management and shipment processes. Leads by example on inventory control, stockroom organization, and partnering with third party vendors. Answers customer calls to the store. Dedicated to connecting customers to the products they love. Part of a team for local New Store Openings to build stockrooms to standard.
 
-<h4> Division of Information Technology, UMBC — Tech Support </h4>
+<h4> West Elm, Seattle - Inventory Associate </h4>
 <h6> September 2014 - July 2015 </h6>
-I worked as support for this division while attending UMBC. I was responsible for maintaining a ticketing system, as well as assisting students on how to use the schools available resources. I helped to set up computers through the school device management, as well as networking printers. I was frequently working over the phone with both students and teachers to troubleshoot issues relating to the school network or school based accounts. 
+Sales & Stock Associate, West Elm; Seattle, WA  2014—2015
+	Provide product knowledge to customers and assist them in their product selection. Perform AM delivery functions and process new shipment requests. Participate in stock checks and cashier duties.
+
+<h4> Crate & Barrel, Annapolis - Sales Associate</h4>
+<h6> 2013 - 2014 </h6>
+	Greeted customers and worked the counter. Performed stock checks and shipped orders to customers. Gave product demonstrations and helped inventory teams merchandise the sales floor setup. Presented product knowledge and trained seasonal associates.
+
 
 <h3> Certifications </h3>
 
