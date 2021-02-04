@@ -2,7 +2,7 @@
 <h5> I am a former US Navy dependent and an Expert at Apple, who also enjoys sewing and gardening. throughout my life I have been exposed to new environments and that translates to my ability to learn and adapt to new systems and procedures. My diverse background in leading teams, inventory, and different retail environments has prepared me for the next step in my career. </h5>
 
 Lansing, MI  
-301.377.2767
+301.377.2767<br>
 shuizinga.com<br>
 s.huizinga88@gmail.com
 
