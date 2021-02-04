@@ -1,5 +1,5 @@
 <h1> Sarah Huizinga </h1>
-<h5> I am a former US Navy dependent and an Expert at Apple, who also enjoys sewing and gardening. throughout my life I have been exposed to new environments and that translates to my ability to learn and adapt to new systems and procedures. My diverse background in leading teams, inventory, and different retail environments has prepared me for the next step in my career. </h5>
+<h5> I am a former US Navy dependent and an Expert at Apple, who also enjoys sewing and gardening. Throughout my life I have been exposed to new environments and that has translated into my ability in learning and adapting to new systems and procedures. My diverse background in leading teams, inventory, and different retail environments has prepared me for the next step in my career. </h5>
 
 Lansing, MI  
 301.377.2767<br>
@@ -25,19 +25,12 @@ In charge of the entire store’s inventory including products, parts and suppli
 Sales & Stock Associate, West Elm; Seattle, WA  2014—2015
 	Provide product knowledge to customers and assist them in their product selection. Perform AM delivery functions and process new shipment requests. Participate in stock checks and cashier duties.
 
-<h4> Crate & Barrel, Annapolis - Sales Associate</h4>
+<h4> Crate & Barrel, Annapolis - Sales Associate </h4>
 <h6> 2013 - 2014 </h6>
 	Greeted customers and worked the counter. Performed stock checks and shipped orders to customers. Gave product demonstrations and helped inventory teams merchandise the sales floor setup. Presented product knowledge and trained seasonal associates.
 
-
-<h3> Certifications </h3>
-
-Certified Apple Mac Technician  
-Certified Apple iOS Technician
-
 <h3> Education </h3>
 
-<h4> University of Maryland, Baltimore County, B.S. Information Systems </h4>
-<h6> Spring 2012 - Fall 2018 </h6>
-
-My degree focuses on the fundamentals of computers, networking, and business. I elected to take many additional courses and participated in numerous clubs and activities outside of just my regular coursework. This degree most prepared me for a role in Systems Analysis and Design, Computer Networking, or Health Care Informatics. I enjoyed attending and participating in Hack-a-thons which only furthered my knowledge of programming and version control. I helped lead an Interest Group "Create with Care" which gave back to the community, raised funds for Breast Cancer Research, as well as organized local roadside cleanups. 
+<h4> The International Culinary School at The Art Institute of Seattle - Diploma in Baking and Pastry <h4> 
+<h6> 2014 </h6>
+Coursework in Apple included Unconscious Bias awareness, Loss Prevention training, Battery training, Business Conduct and Confidentially, Inclusion & Diversity, CRM
