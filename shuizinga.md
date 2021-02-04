@@ -23,11 +23,11 @@ In charge of the entire store’s inventory including products, parts and suppli
 <h4> West Elm, Seattle - Inventory Associate </h4>
 <h6> September 2014 - July 2015 </h6>
 Sales & Stock Associate, West Elm; Seattle, WA  2014—2015
-	Provide product knowledge to customers and assist them in their product selection. Perform AM delivery functions and process new shipment requests. Participate in stock checks and cashier duties.
+Provide product knowledge to customers and assist them in their product selection. Perform AM delivery functions and process new shipment requests. Participate in stock checks and cashier duties.
 
 <h4> Crate & Barrel, Annapolis - Sales Associate </h4>
 <h6> 2013 - 2014 </h6>
-	Greeted customers and worked the counter. Performed stock checks and shipped orders to customers. Gave product demonstrations and helped inventory teams merchandise the sales floor setup. Presented product knowledge and trained seasonal associates.
+Greeted customers and worked the counter. Performed stock checks and shipped orders to customers. Gave product demonstrations and helped inventory teams merchandise the sales floor setup. Presented product knowledge and trained seasonal associates.
 
 <h3> Education </h3>
 
