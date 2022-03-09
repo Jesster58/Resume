@@ -1,15 +1,19 @@
 <h1> Jesse Weston </h1>
-<h5> B.S. in Information Systems from UMBC - Genius at Apple  </h5>
+<h5> B.S. in Information Systems from UMBC - Software Support @ HubSpot </h5>
 
-Crownsville, MD  
+Lansing, MI  
 (410)-903-3977  
 github.com/Jesster58<br>
 Jesse_weston@protonmail.com  
 
 <h3> Experience </h3>
 
+<h4> HubSpot - Software Support </h4>
+<h6> Oct 2020 – Present </h6>
+HubSpot has given me the opportunity to work remotely, manage my time myself, and provide a much more techincal level of support. At HubSpot we are responsible for a wide range of support that includes networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of external coded environments. This has allowed me to flex my knowledge that I have aquired at UMBC getting my degree a little, while also supporting customers in a B2B environment as opposed to retail.
+
 <h4> Apple, Annapolis — Genius </h4>
-<h6> May 2020 – Present </h6>
+<h6> May 2020 – Oct 2020 </h6>
 As a Genius, I provide insightful advice and friendly, hands-on technical support to people in need. I quickly diagnose product issues on the spot, explaining situations with patience and compassion. I offer solutions to quickly get users up and running again. I have become accustomed to juggling more than one customer, while being respectful of their time. I fulfill Apple’s service commitment with style, speed, and skill. Finding trust of customers and coworkers alike as I offer mentorship, knowledge, and even tips and training. I am constantly striving to improve the customer experience, seek out feedback, and better myself every day.
 
 <h4> Apple - At Home Advisor </h4>
