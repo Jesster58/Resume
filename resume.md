@@ -10,7 +10,7 @@ Jesse_weston@protonmail.com
 
 <h4> HubSpot - Software Support </h4>
 <h6> Oct 2020 – Present </h6>
-HubSpot has given me the opportunity to work remotely, manage my time myself, and provide a much more techincal level of support. As software support we are responsible for a wide range of duties that include networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of various external code environments. This has allowed me to flex my knowledge that I have aquired at UMBC getting my degree, while also supporting customers in a B2B environment as opposed to retail.
+HubSpot has given me the opportunity to work remotely, manage my time myself, and provide a much more technical level of support. As software support we are responsible for a wide range of duties that include networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of various external code environments. This has allowed me to flex my knowledge that I have aquired at UMBC getting my degree, while also supporting customers in a B2B environment as opposed to retail.
 
 <h4> Apple, Annapolis — Genius </h4>
 <h6> May 2020 – Oct 2020 </h6>
