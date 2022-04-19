@@ -10,7 +10,7 @@ Jesse_weston@protonmail.com
 
 <h4> HubSpot - Software Support </h4>
 <h6> Oct 2020 – Present </h6>
-HubSpot has given me the opportunity to work remotely, manage my time myself, and provide a much more techincal level of support. As software support we are responsible for a wide range of duties that include networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of various external code environments. This has allowed me to flex my knowledge that I have aquired at UMBC getting my degree, while also supporting customers in a B2B environment as opposed to retail.
+HubSpot has given me the opportunity to work remotely, manage my time myself, and provide a much more technical level of support. As software support we are responsible for a wide range of duties that include networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of various external code environments. This has allowed me to flex my knowledge that I have acquired at UMBC getting my degree, while also supporting customers in a B2B environment as opposed to retail.
 
 <h4> Apple, Annapolis — Genius </h4>
 <h6> May 2020 – Oct 2020 </h6>
@@ -27,11 +27,6 @@ As a Genius Admin, I managed both repairs and customer relations, making sure th
 <h4> Division of Information Technology, UMBC — Tech Support </h4>
 <h6> September 2014 - July 2015 </h6>
 I worked as support for this division while attending UMBC. I was responsible for maintaining a ticketing system, as well as assisting students on how to use the schools available resources. I helped to set up computers through the school device management, as well as networking printers. I was frequently working over the phone with both students and teachers to troubleshoot issues relating to the school network or school based accounts. 
-
-<h3> Certifications </h3>
-
-Certified Apple Mac Technician  
-Certified Apple iOS Technician
 
 <h3> Education </h3>
 
