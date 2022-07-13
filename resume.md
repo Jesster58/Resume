@@ -1,5 +1,5 @@
 <h1> Jesse Weston </h1>
-<h5> Technology enthusiast - B.S. in Information Systems from UMBC - Software Support @ HubSpot </h5>
+<h5> Technology enthusiast - B.S. in Information Systems from UMBC - Senior Software Support at HubSpot </h5>
 
 Lansing, MI  
 (410)-903-3977  
