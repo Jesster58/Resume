@@ -8,9 +8,9 @@ Jesse_weston@protonmail.com
 
 <h3> Experience </h3>
 
-<h4> HubSpot - Software Support </h4>
+<h4> HubSpot - Senior Software Support </h4>
 <h6> Oct 2020 – Present </h6>
-HubSpot has given me the opportunity to work remotely, autonomously, and provide a much more technical level of support. As software support I am responsible for a wide range of duties that include networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of various external code environments. This has allowed me to flex my knowledge that I have aquired at UMBC getting my degree, while also supporting customers in a B2B environment as opposed to retail. My skills acquired at Apple and in other past roles applied nicely here as I pride myself in the ability to translate highly technical concepts to individuals with only a basic understanding of certain tools.
+HubSpot has given me the opportunity to work remotely, autonomously, and provide a much more technical level of support. In this support role I am responsible for a wide range of duties that include networking and domain registration, web site design, API troubleshooting, and technical troubleshooting of various external code environments. This has allowed me to flex my knowledge that I have aquired at UMBC getting my degree, while also supporting customers in a B2B environment as opposed to retail. My skills acquired at Apple and in other past roles applied nicely here as I pride myself in the ability to translate highly technical concepts to individuals with only a basic understanding of certain tools. As a 'senior' member of this team I specialize in achieving certain metrics, and am responsible for cross-functional communication with management, my team, and our engineers.
 
 <h4> Apple, Annapolis — Genius </h4>
 <h6> May 2020 – Oct 2020 </h6>
