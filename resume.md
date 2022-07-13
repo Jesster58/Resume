@@ -24,14 +24,15 @@ As a Genius Admin, I managed both repairs and customer relations, making sure th
 <h6> September 2014 - July 2015 </h6>
 I worked as support for this division while attending UMBC. I was responsible for maintaining a Zoho desk ticketing system, as well as assisting students on how to use the schools available resources. I helped to set up computers through the school device management, as well as networking printers. I was frequently working over the phone and email with both students and teachers to troubleshoot issues relating to the school network or school based accounts. This job was a learning experience and jumping off point as I worked while I attained my degree.
 
-<h3> Certifications </h3>
-
-Certified Apple Mac Technician  
-Certified Apple iOS Technician
-
 <h3> Education </h3>
 
 <h4> University of Maryland, Baltimore County, B.S. Information Systems </h4>
 <h6> Spring 2012 - Fall 2018 </h6>
 
 My degree focuses on the fundamentals of computers, networking, and business. I elected to take many additional courses and participated in numerous clubs and activities outside of just my regular coursework. This degree most prepared me for a role in Systems Analysis and Design, Computer Networking, or Health Care Informatics. I enjoyed attending and participating in Hack-a-thons which only furthered my knowledge of programming and version control. I helped lead an Interest Group "Create with Care" which gave back to the community, raised funds for Breast Cancer Research, as well as organized local roadside cleanups. 
+
+<h3> Certifications </h3>
+
+Certified Apple Mac Technician  
+Certified Apple iOS Technician
+
