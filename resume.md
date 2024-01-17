@@ -39,7 +39,6 @@ My degree focuses on the fundamentals of computers, networking, and business. I 
 <li>Team Management: Experienced in managing and supporting teams to ensure success.</li>
 <li>Technical Support: Proficient in providing technical support for software and hardware-related issues.</li>
 <li>Data Management: Proficient in handling data related to repairs, processes, and service experiences.</li>
-<li>Certifications: Certified Apple Mac Technician and iOS Technician.</li>
 <li>Customer Service: Exceptional customer service skills with a focus on user satisfaction.</li>
 <li>Ticketing Systems: Familiarity with Zoho Desk and other ticketing systems for issue tracking.</li>
 <li>Version Control: Familiarity with version control systems, contributing to a deeper understanding of software development.</li>
@@ -48,12 +47,10 @@ My degree focuses on the fundamentals of computers, networking, and business. I 
 <li>Health Care Informatics: Understanding of health care informatics within the context of information systems.</li>
 <li>Problem Solving: Strong analytical and problem-solving abilities, demonstrated in diagnosing product issues.</li>
 <li>Web Design: Skilled in web design principles and practices.</li>
-<li>Genius Administration: Skilled in managing repairs, customer relations, and maintaining turnaround times.</li>
 <li>Communication Skills: Effective communication, both written and verbal, with customers, coworkers, and leadership.</li>
 <li>Computer Networking: In-depth knowledge of computer networking concepts.</li>
 <li>Technical Translation: Ability to translate highly technical concepts to individuals with basic understanding.</li>
 <li>Systems Analysis and Design: Background in systems analysis and design principles.</li>
-<li></li>
 </ul>
 
 
