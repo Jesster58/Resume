@@ -31,19 +31,29 @@ I worked as support for this division while attending UMBC. I was responsible fo
 
 My degree focuses on the fundamentals of computers, networking, and business. I elected to take many additional courses and participated in numerous clubs and activities outside of just my regular coursework. This degree most prepared me for a role in Systems Analysis and Design, Computer Networking, or Health Care Informatics. I enjoyed attending and participating in Hack-a-thons which only furthered my knowledge of programming and version control. I helped lead an Interest Group "Create with Care" which gave back to the community, raised funds for Breast Cancer Research, as well as organized local roadside cleanups. 
 
-<h4> Skills </h4>
-| Technical Support: Proficient in providing technical support for software and hardware-related issues.  |  Networking: Experienced in setting up and troubleshooting networks, including domain registration. |
-|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Web Design: Skilled in web design principles and practices. 																						| API Troubleshooting: Able to troubleshoot and work with APIs effectively. 													|
-| Software Support: Extensive experience in providing support for various software applications. |  Problem Solving: Strong analytical and problem-solving abilities, demonstrated in diagnosing product issues. |
-| Customer Service: Exceptional customer service skills with a focus on user satisfaction.  |  Team Management: Experienced in managing and supporting teams to ensure success. |
-| Data Management: Proficient in handling data related to repairs, processes, and service experiences.  |  Ticketing Systems: Familiarity with Zoho Desk and other ticketing systems for issue tracking. |
-|  Genius Administration: Skilled in managing repairs, customer relations, and maintaining turnaround times. |  Technical Translation: Ability to translate highly technical concepts to individuals with basic understanding.|
-|  Communication Skills: Effective communication, both written and verbal, with customers, coworkers, and leadership. |  Organization: Strong organizational skills, especially in managing the Genius Room with numerous repairs and parts |
-|  Version Control: Familiarity with version control systems, contributing to a deeper understanding of software development. |  Systems Analysis and Design: Background in systems analysis and design principles.|
-|  Computer Networking: In-depth knowledge of computer networking concepts. |  Health Care Informatics: Understanding of health care informatics within the context of information systems.|
-
-
-
+<h4> Skills: </h4>
+<ul>
+<li>Programming: Exposure to programming through participation in Hack-a-thons and interest groups.</li>
+<li>API Troubleshooting: Able to troubleshoot and work with APIs effectively.</li>
+<li>Organization: Strong organizational skills, especially in managing the Genius Room with numerous repairs and parts.</li>
+<li>Team Management: Experienced in managing and supporting teams to ensure success.</li>
+<li>Technical Support: Proficient in providing technical support for software and hardware-related issues.</li>
+<li>Data Management: Proficient in handling data related to repairs, processes, and service experiences.</li>
+<li>Certifications: Certified Apple Mac Technician and iOS Technician.</li>
+<li>Customer Service: Exceptional customer service skills with a focus on user satisfaction.</li>
+<li>Ticketing Systems: Familiarity with Zoho Desk and other ticketing systems for issue tracking.</li>
+<li>Version Control: Familiarity with version control systems, contributing to a deeper understanding of software development.</li>
+<li>Networking: Experienced in setting up and troubleshooting networks, including domain registration.</li>
+<li>Software Support: Extensive experience in providing support for various software applications.</li>
+<li>Health Care Informatics: Understanding of health care informatics within the context of information systems.</li>
+<li>Problem Solving: Strong analytical and problem-solving abilities, demonstrated in diagnosing product issues.</li>
+<li>Web Design: Skilled in web design principles and practices.</li>
+<li>Genius Administration: Skilled in managing repairs, customer relations, and maintaining turnaround times.</li>
+<li>Communication Skills: Effective communication, both written and verbal, with customers, coworkers, and leadership.</li>
+<li>Computer Networking: In-depth knowledge of computer networking concepts.</li>
+<li>Technical Translation: Ability to translate highly technical concepts to individuals with basic understanding.</li>
+<li>Systems Analysis and Design: Background in systems analysis and design principles.</li>
+<li></li>
+</ul>
 
 
