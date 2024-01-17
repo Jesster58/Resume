@@ -29,7 +29,7 @@ I worked as support for this division while attending UMBC. I was responsible fo
 <h4> University of Maryland, Baltimore County, B.S. Information Systems </h4>
 <h6> Spring 2012 - Fall 2018 </h6>
 
-My degree focuses on the fundamentals of computers, networking, and business. I elected to take many additional courses and participated in numerous clubs and activities outside of just my regular coursework. This degree most prepared me for a role in Systems Analysis and Design, Computer Networking, or Health Care Informatics. I enjoyed attending and participating in Hack-a-thons which only furthered my knowledge of programming and version control. I helped lead an Interest Group "Create with Care" which gave back to the community, raised funds for Breast Cancer Research, as well as organized local roadside cleanups. 
+I earned my B.S. in Information Systems from the University of Maryland, Baltimore County (UMBC) during the period of Spring 2012 to Fall 2018. My education focused on essential aspects such as computer fundamentals, networking, and business. In addition to my coursework, I actively participated in extracurricular activities, including hack-a-thons, to further enhance my knowledge of programming and version control. During this time, I also took a leadership role in an Interest Group called "Create with Care," where I contributed to community engagement efforts, raised funds for Breast Cancer Research, and organized local roadside cleanups. My degree provided a solid foundation in Systems Analysis and Design, Computer Networking, and Health Care Informatics, aligning with my career aspirations.
 
 <h4> Skills: </h4>
 <ul>
