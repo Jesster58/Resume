@@ -33,8 +33,8 @@ My degree focuses on the fundamentals of computers, networking, and business. I 
 
 <h4> Skills </h4>
 | Technical Support: Proficient in providing technical support for software and hardware-related issues.  |  Networking: Experienced in setting up and troubleshooting networks, including domain registration. |
-|---|---|
-| Web Design: Skilled in web design principles and practices. | API Troubleshooting: Able to troubleshoot and work with APIs effectively. |
+|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Web Design: Skilled in web design principles and practices. 																						| API Troubleshooting: Able to troubleshoot and work with APIs effectively. 													|
 | Software Support: Extensive experience in providing support for various software applications. |  Problem Solving: Strong analytical and problem-solving abilities, demonstrated in diagnosing product issues. |
 | Customer Service: Exceptional customer service skills with a focus on user satisfaction.  |  Team Management: Experienced in managing and supporting teams to ensure success. |
 | Data Management: Proficient in handling data related to repairs, processes, and service experiences.  |  Ticketing Systems: Familiarity with Zoho Desk and other ticketing systems for issue tracking. |
